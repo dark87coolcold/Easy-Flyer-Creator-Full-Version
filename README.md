@@ -236,3 +236,6 @@ This repository serves as the official landing page for Easy Flyer Creator. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Easy Flyer Creator today!**
+
+---
+**Last updated:** 2026-09-07 23:51:20 UTC
